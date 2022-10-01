@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Exampllee
 - 👀 I’m interested in frontend developement
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on pepeThinking
+- 💞️ I’m looking to collaborate on Vue projects
 - 📫 How to reach me discord - Exampllee#7046
 
 <!---
