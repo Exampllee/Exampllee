@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Exampllee
-- 👀 I’m interested in frontend developement
-- 🌱 I’m currently Auto QA Engineer
+- 👀 I’m interested in QA
+- 🌱 I’m currently Automation QA Engineer // Coding on Python Playwright & Pytest
 - 📫 How to reach me discord - Exampllee
 
 <!---
