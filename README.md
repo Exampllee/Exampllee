@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Exampllee
-- 👀 I’m interested in QA
-- 🌱 I’m currently Automation QA Engineer // Coding on Python Playwright & Pytest
-- 📫 How to reach me discord - Exampllee
+- 👋 Hi, I’m Danil Shujkov
+- 🌱 I’m QA & Automation QA Engineer with 5 years of experience
+- 📫 You can reach me by email - danil.shujkov@gmail.com
 
 <!---
 Exampllee/Exampllee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
