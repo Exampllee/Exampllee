@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danil Shujkov
+- 👋 Hi, I’m Daniil Shujkov
 - 🌱 I’m QA & Automation QA Engineer with 5 years of experience
 - 📫 You can reach me by email - danil.shujkov@gmail.com
 
